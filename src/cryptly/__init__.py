@@ -1,1 +1,1 @@
-from affine import AffineCipher
+from .affine import AffineCipher
