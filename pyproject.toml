@@ -1,0 +1,18 @@
+[project]
+name = "cryptly"
+version = "0.1.0"
+authors = [
+  { name="Ubaid Ur Rehman", email="rehmanubaid2003@gmail.com" },
+]
+description = "A Python library implementing common encryption and cipher techniques, providing easy-to-use functions for encryption and decryption."
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ubaidrmn/cryptly"
+Issues = "https://github.com/ubaidrmn/cryptly/issues"
